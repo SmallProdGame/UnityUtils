@@ -1,0 +1,16 @@
+{
+	"name": "com.smallprodgame.utils",
+	"version": "1.0.0",
+	"displayName": "SmallProdGame Utils",
+	"description": "",
+	"unity": "2019.1",
+	"dependencies": {
+	},
+	"keywords": ["library", "utility"],
+	"author": {
+		"name": "SmallProdGame Team",
+		"email": "support@smallprodgame.com",
+		"url": "https://smallprodgame.com"
+	}
+
+}
